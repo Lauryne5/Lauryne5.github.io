@@ -577,9 +577,27 @@ section {
 --------------------------------------------------------------*/
 .portfolio .project-item h4{
   color: #0563bb;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 600;
   margin-bottom: 10px;
+  margin-top: 10px;
+}
+.portfolio .project-item p{
+  color: black;
+  font-size: 17px;
+  font-style: italic;
+}
+.portfolio .project-item .objectives h7{
+  padding-bottom: 50px; 
+  font-weight: 400;
+}
+.portfolio .project-item .objectives ul{
+  list-style-type: circle;
+  margin-top: 10px;
+  text-align: left !important;
+}
+.portfolio .project-item .objectives li{
+  margin: 10px;
 }
 
 .portfolio .portfolio-item {
