@@ -575,6 +575,13 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio .project-item h4{
+  color: #0563bb;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
